@@ -1,4 +1,3 @@
-![dipexp3op2](https://github.com/user-attachments/assets/065d5178-a27f-49e3-850c-3b1738027ca2)# Histogram-of-an-images
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
