@@ -1,4 +1,4 @@
-# Histogram-of-an-images
+![dipexp3op2](https://github.com/user-attachments/assets/065d5178-a27f-49e3-850c-3b1738027ca2)# Histogram-of-an-images
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -68,7 +68,8 @@ plt.show()
 ### Input Grayscale Image and Color Image
 ![dipexp3op1](https://github.com/user-attachments/assets/262e828d-52a8-499e-b595-8d5a9de3067e)
 
-![Uploading dipexp3op2.png…]()
+
+![dipexp3op2](https://github.com/user-attachments/assets/e42d22ac-d281-4a7b-96b4-cf5736cdccca)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
@@ -80,12 +81,7 @@ plt.show()
 
 ### Histogram Equalization of Grayscale Image.
 
-![Uploading dipexp3op5.png…]()
+![dipexp3op5](https://github.com/user-attachments/assets/0ad328be-dd69-4a6a-8ba1-073ab0c06ceb)
 
 ### Result:
-Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
-
-
-
-## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
